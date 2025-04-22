@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>  
-  - 🌱 Atualmente estudando sistemas de informação na Universidade Federal Rural do Rio de Janeiro (UFRRJ).        
+- 🌱 Atualmente estudando sistemas de informação na Universidade Federal Rural do Rio de Janeiro (UFRRJ).        
 
-  - 🔬 Aluno de iniciação tecnológica pela FAPERJ.    
+- 🔬 Aluno de iniciação tecnológica pela FAPERJ.    
 </p>
 
 <!-- Links -->
