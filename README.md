@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 <!-- Portfólio -->
-## Portfólio:  
+## 📒 Portfólio:  
 [Análise Exploratória com Excel](https://github.com/gdelima-data/superstore-sales-analysis)  
 [Exploração e Predição com Python](https://github.com/gdelima-data/companhia-aerea)  
 [Códigos em Python](https://github.com/gdelima-data/python)  
