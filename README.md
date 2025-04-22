@@ -16,8 +16,9 @@
 
 <!-- Portfólio -->
 ## Portfólio:  
-[Análise Exploratória com Excel](https://github.com/gdelima-data/superstore-sales-analysis)
-[Exploração e Predição com Python](https://github.com/gdelima-data/companhia-aerea)
+[Análise Exploratória com Excel](https://github.com/gdelima-data/superstore-sales-analysis)  
+[Exploração e Predição com Python](https://github.com/gdelima-data/companhia-aerea)  
+[Códigos em Python](https://github.com/gdelima-data/python)  
 
 ## ⚒️ Skills  
   <div style="flex-basis: 48%;">
